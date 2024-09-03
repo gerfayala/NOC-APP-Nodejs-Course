@@ -22,5 +22,22 @@ export class LogEntity {
     }
 
 
+    //metodo para convertir a string
+
+    static fromJson(json: string): LogEntity {
+        const { message, level, createdAt } = JSON.parse(json);
+        
+        if (!message || !level || !createdAt) {
+            throw new Error('Invalid LogEntity');
+        }
+
+        const log = new LogEntity(message, level);
+        log.createdAt = new Date(createdAt);
+
+        return log;
+
+    }
+
+
 
 }
