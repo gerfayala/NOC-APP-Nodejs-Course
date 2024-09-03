@@ -1,4 +1,8 @@
-{"level":"high","message":"Service https://localhost:3000 is not working","createdAt":"2024-09-03T16:42:03.074Z"}
-{"level":"high","message":"Service https://localhost:3000 is not working","createdAt":"2024-09-03T16:42:06.005Z"}
-{"level":"high","message":"Service https://localhost:3000 is not working","createdAt":"2024-09-03T16:42:09.005Z"}
-{"level":"high","message":"Service https://localhost:3000 is not working","createdAt":"2024-09-03T16:42:12.004Z"}
+{"level":"low","message":"Service https://www.google.com is working","createdAt":"2024-09-03T17:05:42.365Z"}
+{"level":"low","message":"Service https://www.google.com is working","createdAt":"2024-09-03T17:05:45.184Z"}
+{"level":"low","message":"Service https://www.google.com is working","createdAt":"2024-09-03T17:05:48.252Z"}
+{"level":"low","message":"Service https://www.google.com is working","createdAt":"2024-09-03T17:05:51.222Z"}
+{"level":"low","message":"Service https://www.google.com is working","createdAt":"2024-09-03T17:05:54.191Z"}
+{"level":"low","message":"Service https://www.google.com is working","createdAt":"2024-09-03T17:05:57.263Z"}
+{"level":"low","message":"Service https://www.google.com is working","createdAt":"2024-09-03T17:06:00.232Z"}
+{"level":"low","message":"Service https://www.google.com is working","createdAt":"2024-09-03T17:06:03.192Z"}
