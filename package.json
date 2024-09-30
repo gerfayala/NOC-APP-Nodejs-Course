@@ -1,6 +1,7 @@
 {
   "devDependencies": {
     "@types/node": "^22.5.2",
+    "@types/nodemailer": "^6.4.16",
     "rimraf": "^6.0.1",
     "ts-node-dev": "^2.0.0",
     "typescript": "^5.5.4"
@@ -56,6 +57,7 @@
     "minimist": "^1.2.8",
     "minipass": "^7.1.2",
     "mkdirp": "^1.0.4",
+    "nodemailer": "^6.9.15",
     "normalize-path": "^3.0.0",
     "once": "^1.4.0",
     "package-json-from-dist": "^1.0.0",
